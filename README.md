@@ -1,7 +1,7 @@
 Utabit Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/utabit/utabit.svg?branch=master)](https://travis-ci.org/utabit/utabit)
+[![Build Status](https://travis-ci.org/RegulusBit/utabit.svg?branch=master)](https://travis-ci.org/RegulusBit/utabit)
 
 https://utabit.com
 
